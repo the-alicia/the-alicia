@@ -1,4 +1,4 @@
-Oi eu sou Alicia 
+Oi eu sou Alicia :3
 
 <!---
 the-alicia/the-alicia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
